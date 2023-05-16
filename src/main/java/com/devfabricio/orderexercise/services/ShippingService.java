@@ -1,4 +1,4 @@
-package com.devfabricio.orderexercise.service;
+package com.devfabricio.orderexercise.services;
 
 import org.springframework.stereotype.Service;
 

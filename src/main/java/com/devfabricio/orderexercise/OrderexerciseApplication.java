@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 import com.devfabricio.orderexercise.entity.Order;
-import com.devfabricio.orderexercise.service.OrderService;
+import com.devfabricio.orderexercise.services.OrderService;
 
 @SpringBootApplication
 @ComponentScan({"com.devfabricio"})
